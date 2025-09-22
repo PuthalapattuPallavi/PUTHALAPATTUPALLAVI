@@ -62,12 +62,5 @@ Matrix multiplication and FIR filtering are **key operations in DSP, AI, and sci
    ```bash
    git clone https://github.com/PuthalapattuPallavi/Configurable-Accelerator-IP
    cd Configurable-Accelerator-IP
-###Compile all Verilog files
-vlog *.v
-
-
-###Launch the testbench simulation
-vsim tb_accelerator
-run -all
 
 
